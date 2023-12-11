@@ -17,7 +17,7 @@ public class BalanzaMain {
 	public Double getPeso() {
 		// TODO Auto-generated method stub
 
-		System.err.println("AU");
+		System.err.println("AUX");
 		
 		Double peso = 0.0D;
 		try {
